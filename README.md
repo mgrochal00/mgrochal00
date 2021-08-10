@@ -9,6 +9,9 @@
 ## <div align="center">  </div>
 ## <div align="center">  </div>
 ## <div align="center">Learning:</div>
+
+## <div align="left"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrochal00)](https://github.com/mgrochal00/github-readme-stats)
+</div>
 <!---
 mgrochal00/mgrochal00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
