@@ -1,5 +1,5 @@
 
-## <div align="center"> 👋 Hi there, I’m Michal Grochal. I’m in love with DevOps technologies.</div>
+## <div align="center"> 👋 Hi there, I’m Michal Grochal.</div>
 
 ## <div align="center"> 💬 You can reach me on my LinkedIn profile or by email. </div>
 
